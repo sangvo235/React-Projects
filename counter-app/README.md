@@ -2,9 +2,9 @@
 
 ## To Run: 
 
-- download zip file 
-- create react project via "npx create-react-app"
-- replace public & src files with the ones downloaded
-- install compatible bootstrap version "npm i bootstrap@4.1.1"
-- run react app "npm start"
-- have fun! 🙂
+- Download zip file 
+- Create react project via "npx create-react-app"
+- Replace public & src files with the ones downloaded
+- Install compatible bootstrap version "npm i bootstrap@4.1.1"
+- Run react app "npm start"
+- Have fun! 🙂
